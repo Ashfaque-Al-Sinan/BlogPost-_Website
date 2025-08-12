@@ -6,7 +6,7 @@
 A Blog application in Django contains all the features of a Blog site like login/register into the system, add blog post with title, description and image and edit or delete the blog post.
 
 
-  <a href="https://blogs-n2mq.onrender.com/"><strong>➥ Live Demo</strong></a>
+  
 
 </div>
 
@@ -20,11 +20,7 @@ Creating A Blog In Django has interactive UI design using which users can see wh
 <br>
 <br>
 
-![1](PREVIEW/IMG1.png)
-![2](PREVIEW/IMG2.png)
-![3](PREVIEW/IMG3.png)
-![4](PREVIEW/IMG4.png)
-![5](PREVIEW/IMG5.png)
+
 <br>
 
 
